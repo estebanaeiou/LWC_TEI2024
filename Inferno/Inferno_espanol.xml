@@ -50,7 +50,7 @@
 	"id": "https://raw.githubusercontent.com/estebanaeiou/LWC_TEI2024/main/Inferno/Inferno_espanol.xml?person_annotation_20241007130656013",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-10-07T18:06:56.013Z",
-	"dcterms:modified": "2024-10-07T18:06:56.013Z",
+	"dcterms:modified": "2024-10-07T18:11:32.561Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/estebanaeiou",
 		"@type": [
@@ -195,7 +195,7 @@
          <div>
             <pb facs="https://upload.wikimedia.org/wikipedia/commons/3/38/Inferno_Canto_4_four_bards.jpg"/>
             <head>Infierno: Canto IV</head>
-            <byline><persName key="Alighieri, Dante 1349-1428" ref="http://viaf.org/viaf/702165272163210690004/">Dante Alighieri</persName></byline>
+            <byline><persName key="Alighieri, Dante 1349-1428" ref="http://viaf.org/viaf/702165272163210690004/" type="real">Dante Alighieri</persName></byline>
 
             <lg n="1">
                <l>Rompió el profundo sueño de mi mente</l>
